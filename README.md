@@ -1,4 +1,4 @@
-# trackattack
+# Track Attack
 
 ## How to run
 1. Make sure you have python installed in your computer.
